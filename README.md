@@ -1,2 +1,0 @@
--> Part of FreeCodeCamp Certification Projects
--> PostgreSQL virtual Linux Server
